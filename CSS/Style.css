@@ -1,0 +1,21 @@
+h1{
+	font-size: 25px;
+	color: red;
+	
+}
+h3{
+	color: grey;
+}
+p{
+	font-size: 18px;
+}
+.fig{ 
+	text-align: center; 
+}
+#resume,#resume2{
+	display:inline-block;
+}
+main.article-beginning{
+	color: orange;
+}
+  		
